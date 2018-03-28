@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app邮件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10-选择一封" transform="translate(-270.000000, -627.000000)">
+            <g id="tab-bars_menu" transform="translate(0.000000, 618.000000)">
+                <g id="3" transform="translate(268.000000, 9.000000)">
+                    <g id="1" transform="translate(3.000000, 1.000000)">
+                        <path d="M0,5.79310345 L0,19.2758621 C0,19.7103448 0.293333333,20 0.733333333,20 L21.2666667,20 C21.7066667,20 22,19.7103448 22,19.2758621 L22,5.79310345 C22,5.35862069 21.7066667,5.06896552 21.2666667,5.06896552 L9.53333333,5.06896552" id="Stroke-1" stroke="#1C222B"></path>
+                        <path d="M0,7.24137931 L0,0.651724138 C0,0.289655172 0.366666667,0 0.806666667,0 L8.72666667,0 C9.16666667,0 9.53333333,0.289655172 9.53333333,0.651724138 L9.53333333,5.06896552" id="Stroke-3" stroke="#1C222B" stroke-linecap="round"></path>
+                        <path d="M9.07995075,2.17241379 L21.2666667,2.17241379 C21.7066667,2.17241379 22,2.46206897 22,2.89655172 L22,8.68965517" id="Stroke-5" stroke="#1C222B"></path>
+                        <path d="M15.5,12.5 L11.5,12.5 L11.5,8.5 C11.5,8.2 11.3,8 11,8 C10.7,8 10.5,8.2 10.5,8.5 L10.5,12.5 L6.5,12.5 C6.2,12.5 6,12.7 6,13 C6,13.3 6.2,13.5 6.5,13.5 L10.5,13.5 L10.5,17.5 C10.5,17.8 10.7,18 11,18 C11.3,18 11.5,17.8 11.5,17.5 L11.5,13.5 L15.5,13.5 C15.8,13.5 16,13.3 16,13 C16,12.7 15.8,12.5 15.5,12.5" id="Page-1" fill="#1C222B"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

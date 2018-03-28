@@ -1,0 +1,8 @@
+{
+  "version": "0.2.4",
+  "api": "www.noohle.com",
+  "devApi": [
+    "dev.noohle.com:3443",
+    "dev.noohle.com:7443"
+  ]
+}

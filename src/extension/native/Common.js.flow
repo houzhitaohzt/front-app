@@ -1,0 +1,7 @@
+
+module.exports = {
+    moveToBack: ()=> void {},
+    exitApp: ()=> void {},
+    Channel: string,
+    AppName: string,
+};

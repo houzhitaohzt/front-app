@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <title>Group 29</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_ERP" transform="translate(-17.000000, -594.000000)">
+            <g id="Group-10" transform="translate(0.000000, 581.000000)">
+                <g id="Group-29" transform="translate(15.000000, 11.000000)">
+                    <rect id="Rectangle-12" x="0" y="0" width="22" height="22"></rect>
+                    <g id="Group" transform="translate(2.000000, 2.000000)" fill="#2095F2">
+                        <path d="M3.2990625,0 L0.2496875,4.71072335 L0,5.09961929 L0,18 L17,18 L17,5.09961929 L16.7503125,4.71072335 L13.7009375,0 L3.2990625,0 Z M3.856875,1.14213198 L13.143125,1.14213198 L15.4540625,4.71072335 L1.5459375,4.71072335 L3.856875,1.14213198 Z M13.94,5.8534264 L15.9375,5.8534264 L15.9375,16.857868 L1.0625,16.857868 L1.0625,5.8534264 L8.7603125,5.8534264 L8.7603125,12.2836294 L11.3475,10.6389594 L13.94,12.2836294 L13.94,5.8534264 Z M9.8228125,5.8534264 L12.8775,5.8534264 L12.8775,10.2848985 L11.3475,9.31408629 L9.8228125,10.2848985 L9.8228125,5.8534264 Z" id="Fill-1"></path>
+                        <polygon id="Fill-2" points="3 9.0786802 6.6328125 9.0786802 6.6328125 8 3 8"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

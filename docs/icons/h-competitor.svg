@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <title>11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="1_Home" transform="translate(-220.000000, -357.000000)" stroke-width="1.5">
+            <g id="Group-4" transform="translate(0.000000, 184.000000)">
+                <g id="11" transform="translate(220.000000, 173.000000)">
+                    <g id="Group-5" transform="translate(1.000000, 1.486772)" stroke="#2095F2">
+                        <polyline id="Stroke-1" points="17.1818182 0 21.4772727 0 21.4772727 3.89417989"></polyline>
+                        <polyline id="Stroke-3" points="0 18.4973545 3.34090909 18.4973545 3.34090909 21.4179894"></polyline>
+                    </g>
+                    <polyline id="Stroke-6" stroke="#2095F2" points="2.90909091 18.037037 6.25 18.037037 6.25 20.957672"></polyline>
+                    <g id="Group-13" transform="translate(2.431818, 1.000000)">
+                        <path d="M20.0454545,0.486772487 L4.03677273,16.7600635" id="Stroke-7" stroke="#2095F2"></path>
+                        <polyline id="Stroke-9" stroke="#3C4859" points="3.81818182 0 0 0 0 3.89417989"></polyline>
+                        <polyline id="Stroke-11" stroke="#3C4859" points="21.4772727 18.984127 18.1363636 18.984127 18.1363636 21.9047619"></polyline>
+                    </g>
+                    <polyline id="Stroke-14" stroke="#3C4859" points="22 18.037037 18.6590909 18.037037 18.6590909 20.957672"></polyline>
+                    <path d="M2.65045682,1.20843598 L18.8786841,17.7596741" id="Stroke-15" stroke="#3C4859"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

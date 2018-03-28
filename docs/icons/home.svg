@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_ERP" transform="translate(-36.000000, -1263.000000)">
+            <g id="tab-bars-01" transform="translate(0.000000, 1254.000000)">
+                <g id="1" transform="translate(35.000000, 6.000000)">
+                    <g id="Group-18">
+                        <rect id="Rectangle-11" x="0" y="0" width="27" height="27"></rect>
+                        <g id="home-1" transform="translate(2.000000, 3.000000)" stroke="#9FACBD" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M11,4.08249787 L19.5503478,12.6830936 C20.1108696,13.2471362 21.0195652,13.2471362 21.5796087,12.6830936 C22.1401304,12.1199872 22.1401304,11.205817 21.5796087,10.6427106 L11,-0.000140425532 L0.420391304,10.6427106 C-0.140130435,11.205817 -0.140130435,12.1199872 0.420391304,12.6830936 C0.980434783,13.2471362 1.88913043,13.2471362 2.44965217,12.6830936 L11,4.08249787 L11,4.08249787 Z" id="Stroke-1"></path>
+                            <polyline id="Stroke-3" points="2.86956522 12.2607404 2.86956522 21.5321021 8.60869565 21.5321021 8.60869565 14.9789106 13.3913043 14.9789106 13.3913043 21.5321021 19.1304348 21.5321021 19.1304348 12.3449957"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

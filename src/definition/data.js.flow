@@ -1,0 +1,28 @@
+/**
+ * 项目配置文件
+ */
+export type ProjectDefinition = {
+    api: string,
+    version: string,
+    devApi: Array<string>
+}
+
+/**
+ * 登录用户信息
+ */
+export type UserDefinition = {
+    id: number,
+    userName: string, // 用户名
+    staffName: string, // 职员名称
+    staffEnName: string, //职员英文名
+    companyId: string, //
+    companyName: string,
+    companyEnName: string,
+    organizationId: string,
+    organizationName: string,
+    positnId: string,
+    positnName: string,
+    emails: Array<string>, // 邮箱集合
+    permissions: Array<string>,//权限集合
+    menuidentitys: Array<string>,//菜单集合
+}

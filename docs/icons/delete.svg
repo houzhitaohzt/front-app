@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons_Junk box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app邮件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23-邮件详情" transform="translate(-177.000000, -626.000000)" stroke="#000033">
+            <g id="tab-bars_menu" transform="translate(0.000000, 618.000000)">
+                <g id="2" transform="translate(177.000000, 8.000000)">
+                    <g id="Icons_Junk-box" transform="translate(1.000000, 1.000000)">
+                        <path d="M17.6013889,8.5702381 L1.21388889,8.5702381 C0.554166667,8.5702381 0,7.9952381 0,7.31071429 L0,4.79166667 C0,4.10714286 0.554166667,3.53214286 1.21388889,3.53214286 L17.6013889,3.53214286 C18.2611111,3.53214286 18.8152778,4.10714286 18.8152778,4.79166667 L18.8152778,7.31071429 C18.8152778,7.9952381 18.2611111,8.5702381 17.6013889,8.5702381 L17.6013889,8.5702381 Z" id="Stroke-1"></path>
+                        <path d="M17.0485847,8.57226562 L17.0485847,20.727381 C17.0485847,21.0349093 16.1175775,21.5092137 14.506001,21.8502686 C12.9758057,22.1741008 10.9757803,22.3630952 9.31525139,22.3630952 C5.67000539,22.3630952 1.79302917,21.5157723 1.79302917,20.727381 L1.79302917,8.57226562 L17.0485847,8.57226562 Z" id="Fill-3"></path>
+                        <path d="M6.33333333,13.5809524 L6.33333333,16.8392857" id="Stroke-5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M9.5,12.622619 L9.5,17.797619" id="Stroke-7" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.6666667,13.5809524 L12.6666667,16.8392857" id="Stroke-9" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M5.25138889,3.34047619 C5.25138889,3.34047619 4.80277778,0 9.18333333,0 C13.5638889,0 13.5902778,3.34047619 13.5902778,3.34047619" id="Stroke-11"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+declare module 'decorator' {
+    declare type TouchDelay = ()=> void;
+    declare type ApiCell = ()=> void;
+}
